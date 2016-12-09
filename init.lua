@@ -1,5 +1,5 @@
 wifi.setmode(wifi.STATION)
-wifi.sta.config("dd-wrt","taagemundz_1462")
+wifi.sta.config("ssid","pass")
 print(wifi.sta.getip())
 labON = 3
 labOFF = 4
